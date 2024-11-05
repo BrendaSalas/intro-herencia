@@ -1,5 +1,6 @@
 from ClassPeces import Peces
 
+
 class PezPayaso(Peces):
     def __init__(self, nombre, color, size, habitad, esconderse):
         super().__init__(nombre, color, size, habitad)

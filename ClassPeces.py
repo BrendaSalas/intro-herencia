@@ -5,10 +5,6 @@ class Peces:
         self.__size = size
         self.__habitad = habitad
 
-    '''def mostrar_informacion(self):
-        print(f"Nombre: {self.__nombre}")
-        print(f"Color: {self.__color}")
-        print(f"Tipo de agua: {self.tipo_agua}")'''
     def getNombre(self):
         return self.__nombre
 

@@ -1,5 +1,6 @@
 from ClassPezPayaso import PezPayaso
 
+
 miPez = PezPayaso("Nemo", "Naranja-Blanco", "Pequeño","Agua Salada", True)
 miPez.descripcion()
 miPez.nadar()
